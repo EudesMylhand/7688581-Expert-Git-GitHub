@@ -13,7 +13,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 ```
 A définir
 -Installation d'un navigateur
--Installation de git
+-Installation de git.
 
 ```
 
